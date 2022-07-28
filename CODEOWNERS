@@ -8,5 +8,5 @@
 /DataDomain/TST @RapidCircle/poc-coe @RapidCircle/poc-partner
 /DataLanding/TST @RapidCircle/poc-coe @RapidCircle/poc-partner
 
-/DataDomain/BUS @RapidCircle/poc-som @RapidCircle/poc-partner
-/DataLanding/BUS @RapidCircle/poc-som @RapidCircle/poc-partner
+/DataDomain/BUS @RapidCircle/poc-som 
+/DataLanding/BUS @RapidCircle/poc-som 
