@@ -1,6 +1,6 @@
 # Adding code approver as poc-coe
 
-* @RapidCircle/poc-coe
+#* @RapidCircle/poc-coe
 
 /DataDomain/DEV @RapidCircle/poc-coe,@RapidCircle/poc-partner
 /DataLanding/DEV @RapidCircle/poc-coe,@RapidCircle/poc-partner
