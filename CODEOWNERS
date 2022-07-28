@@ -2,11 +2,11 @@
 
 * @RapidCircle/poc-coe
 
-/DataDomain/DEV @RapidCircle/poc-coe,@RapidCircle/poc-partner
-/DataLanding/DEV @RapidCircle/poc-coe,@RapidCircle/poc-partner
+/DataDomain/DEV @RapidCircle/poc-coe
+/DataLanding/DEV @RapidCircle/poc-coe
 
-/DataDomain/TST @RapidCircle/poc-coe,@RapidCircle/poc-partner
-/DataLanding/TST @RapidCircle/poc-coe,@RapidCircle/poc-partner
+/DataDomain/TST @RapidCircle/poc-coe
+/DataLanding/TST @RapidCircle/poc-coe
 
 /DataDomain/BUS @RapidCircle/poc-som
 /DataLanding/BUS @RapidCircle/poc-som
